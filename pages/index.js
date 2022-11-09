@@ -12,6 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to my app!" />
+        <h1>Kelola Banyak Akun Marketplace Dalam Satu Dashboard</h1>
         <p className="description">
           <a href="https://boostr.id">Boostr.id</a>
         </p>
