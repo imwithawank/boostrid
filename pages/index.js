@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Boostr.id</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          <a href="https://www.w3schools.com">Visit W3Schools</a>
+          <a href="https://boostr.id">Boostr.id</a>
         </p>
       </main>
 
